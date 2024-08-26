@@ -22,4 +22,4 @@ Each module is designed and verified independently ensuring that every component
 
 You can find additional information about the design and verification here: https://github.com/akourkoulos/Tomasulo/tree/main/report
 
-You can check the source files here: 
+You can check the source files here: https://github.com/akourkoulos/Tomasulo/tree/main/.VHD%20Files
