@@ -18,3 +18,7 @@ The full system consists of the following modules:
 
 ![alt text](https://github.com/akourkoulos/Tomasulo/blob/main/Figures/Tomasulo.png)
 
+Each module is designed and verified independently ensuring that every component is efficient and reliable. Consequently, the whole system is verified as well with behavioral simulation. 
+You can find additional information about the design and verification here: 
+
+You can check the source files here: 
